@@ -38,12 +38,9 @@ h3 {
   background-color: lightpink;
   border: 1px black double;
   position: relative;
-  width: 700px;
+  width: 300px;
   font-size: 25px;
   font-family: 'Ubuntu', cursive;
-  padding-left: 100px;
-  padding-right: 100px;
-  margin-left: 250px;
   display: inline-block;
 
 }
