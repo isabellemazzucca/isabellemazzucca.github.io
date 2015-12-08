@@ -32,18 +32,10 @@ h3 {
   margin-right: 40px;
   margin-bottom: 20px;
   margin-top: 15px;
-}
 
-.navbar-nav {
-  background-color: lightpink;
-  border: 1px black double;
-  position: relative;
-  width: 300px;
-  font-size: 25px;
-  font-family: 'Ubuntu', cursive;
-  display: inline;
 
 }
+
 
 .col-md-1 {
   border-left: 1px solid black;
