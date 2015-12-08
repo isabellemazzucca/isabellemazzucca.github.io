@@ -8,9 +8,8 @@ h1{
   font-family: 'Ubuntu', cursive;
   color: hotpink;
   font-size: 100px;
-  right: 50px;
   position: relative;
-  left: 50px;
+  margin-left: 10px;
   top: -20px;
   text-align: center;
 }
