@@ -36,13 +36,13 @@ h3 {
   background-color: lightpink;
   border: 1px black double;
   position: relative;
-  width: 700px;
+  width: 685px;
   text-align: center;
   font-size: 25px;
   font-family: 'Ubuntu', cursive;
   padding-left: 100px;
   padding-right: 30px;
-  margin-left: 140px;
+  margin-left: 160px;
   display: inline-block;
 
 }
