@@ -12,6 +12,7 @@ h1{
   position: relative;
   left: 240px;
   top: -20px;
+  text-align: center;
 }
 
 h3 {
@@ -40,8 +41,8 @@ h3 {
   text-align: center;
   font-size: 25px;
   font-family: 'Ubuntu', cursive;
-  padding-left: 100px;
-  padding-right: 20px;
+  padding-left: 15px;
+  padding-right: 15px;
   margin-left: 250px;
   display: inline-block;
 
