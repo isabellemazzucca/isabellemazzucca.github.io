@@ -32,15 +32,15 @@ h2 {
 }
 
 .navbar-nav {
-  background-color: hotpink;
-  border: 1px double black;
+  background-color: lightpink;
+  border: black double;
   padding: -30px;
   width: 400px;
   margin: -10px;
   position: relative;
   left: 390px;
   text-align: center;
-font-size: 40px;
+font-size: 10px;
 
 }
 
