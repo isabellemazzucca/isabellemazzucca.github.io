@@ -19,6 +19,7 @@ h2 {
   font-weight: bold;
   position: relative;
   bottom: 45px;
+  text-align: center;
 
 }
 
@@ -26,6 +27,7 @@ h2 {
   text-align: center;
   margin-left: 40px;
   margin-right: 40px;
+  margin-bottom: 30px;
 }
 
 .col-md-1 {
