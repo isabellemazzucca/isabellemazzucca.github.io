@@ -34,7 +34,7 @@ h3 {
 
 .navbar-nav {
   background-color: lightpink;
-  border: black double;
+  border: 1px black double;
   position: relative;
   width: 400px;
   margin -10px;
