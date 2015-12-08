@@ -40,7 +40,8 @@ h3 {
   font-family: 'Ubuntu', cursive;
   color: lightpink;
   border: 1px solid black;
-  margin-bottom: 30px;
+  margin-bottom: 50px;
+  margin-left: 10px;
 }
 
 .col-md-1 {
