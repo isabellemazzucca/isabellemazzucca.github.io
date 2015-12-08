@@ -40,7 +40,9 @@ h2 {
   position: relative;
   left: 390px;
   text-align: center;
-font-size: 10px;
+  font-size: 10px;
+  font-family: 'Ubuntu', cursive;
+
 
 }
 
