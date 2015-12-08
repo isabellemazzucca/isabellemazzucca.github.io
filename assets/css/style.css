@@ -31,6 +31,17 @@ h2 {
   margin-bottom: 8px;
 }
 
+.navbar-nav {
+  background-color: lightpink;
+  border: 1px double black;
+  padding: -30px;
+  width: 400px;
+  margin: -10px;
+  position: relative;
+  left: 390px;
+
+}
+
 .col-md-1 {
   border-left: 1px solid black;
   border-right: 1px solid black;
