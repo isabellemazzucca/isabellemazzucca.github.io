@@ -36,6 +36,12 @@ h3 {
 
 }
 
+.col-md-4 {
+  text-align: center;
+  color: lightpink;
+  border: 1px solid black;
+  margin-bottom: 10px;
+}
 
 .col-md-1 {
   border-left: 1px solid black;
