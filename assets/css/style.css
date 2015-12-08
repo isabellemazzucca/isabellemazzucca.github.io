@@ -36,8 +36,9 @@ h3 {
 
 }
 
-.col-md-4 a {
+  a {
   text-align: center;
+  font-family: 'Ubuntu', cursive;
   color: lightpink;
   border: 1px solid black;
   margin-bottom: 10px;
