@@ -34,11 +34,8 @@ h3 {
 .navbar-nav {
   background-color: lightpink;
   border: black double;
-  padding: 30px;
-  width: 400px;
-  margin: -10px;
-  position: relative;
-  left: 390px;
+  margin-left: 25px;
+  margin-right: 25px;
   text-align: center;
   font-size: 30px;
   font-family: 'Ubuntu', cursive;
