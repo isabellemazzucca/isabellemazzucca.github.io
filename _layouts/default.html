@@ -8,24 +8,28 @@
   <link rel="stylesheet" href="assets/css/style.css">
 </head>
 <body>
-<header>
-<div class="container-fluid">
-  <h1>{{ page.title }}</h1>
-  <div class="row">
-    <nav>
-    <ul class="nav navbar-static-top">
-      <div class="col-md-4"><li><a href="com372student/Projects/isabellemazzucca.github.io/about.html">About</a></li>
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        <h1> {{ page.tite}}</h1>
+        {{ content}}
       </div>
-      <div class="col-md-4"><li><a href="com372student/Projects/isabellemazzucca.github.io/featuredrecipes.html">Featured Recipes</a></li>
-      </div>
-      <div class="col-md-4"><li><a href="com372student/Projects/isabellemazzucca.github.io/bakingtips.html">Baking Tips</a></li>
-      </div>
+    </div>
+  </div>
+<div class="container">
+  <header class="navbar navbar-static-top">
+    <nav class="navbar-collapse">
+    <ul class="nav navbar-nav">
+      <li><a href="com372student/Projects/isabellemazzucca.github.io/about.html">About</a></li>
+      <li><a href="com372student/Projects/isabellemazzucca.github.io/featuredrecipes.html">Featured Recipes</a></li>
+      <li><a href="com372student/Projects/isabellemazzucca.github.io/bakingtips.html">Baking Tips</a></li>
     </ul>
   </nav>
-</div>
+</header>
 </div>
 </header>
+<div class="container">
   {{ content }}
-
+</div>
 </body>
 </html>
