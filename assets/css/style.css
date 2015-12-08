@@ -22,7 +22,11 @@ h2 {
 
 }
 
-
+#cupcake {
+  align-content: center;
+  margin-top: 25px;
+  margin-bottom: 50px;
+}
 
 .col-md-1 {
   border-left: 1px solid black;
